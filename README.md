@@ -1,6 +1,8 @@
 # Bank-Record-Storage-System-Using-Blockchain-Project
 Bank Record Storage System Using Blockchain Project Code, Document And Video Tutorial
 
+![Bank Record](https://github.com/user-attachments/assets/b93e90de-4845-46f4-9e41-223e4705b9f0)
+
 ## Youtube link: https://youtu.be/ZH3ySXHGrPE?si=LCd6uIPGQG4DcVGs
 
 ## Abstract:
